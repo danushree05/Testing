@@ -1,0 +1,13 @@
+2024-05-02 13:39:34 INFO  Opentable:41 - open url
+  2024-05-02 13:39:37 WARN  Opentable:43 - Wait for 3 sec
+  2024-05-02 13:39:39 INFO  Opentable:46 - select Bangalore
+  2024-05-02 13:39:42 WARN  Opentable:51 - Wait for 3 sec
+  2024-05-02 13:39:45 INFO  Opentable:64 - selected 4 people
+  2024-05-02 13:39:46 INFO  Opentable:72 - Selected November
+  2024-05-02 14:19:22 INFO  Opentable:43 - open url
+  2024-05-02 14:19:25 WARN  Opentable:45 - Wait for 3 sec
+  2024-05-02 14:19:26 INFO  Opentable:48 - select Bangalore
+  2024-05-02 14:19:29 WARN  Opentable:55 - Wait for 3 sec
+  2024-05-02 14:19:33 INFO  Opentable:70 - selected 4 people
+  2024-05-02 14:19:33 INFO  Opentable:78 - Selected November
+  
